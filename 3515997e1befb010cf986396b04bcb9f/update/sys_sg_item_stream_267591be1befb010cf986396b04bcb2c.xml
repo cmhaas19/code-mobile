@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="All Active Data Item">1a7551be1befb010cf986396b04bcbba</data_item>
+        <interleaved_field/>
+        <name>a67591be1befb010cf986396b04bcb28 Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-04 18:28:25</sys_created_on>
+        <sys_id>267591be1befb010cf986396b04bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a67591be1befb010cf986396b04bcb28 Item Stream</sys_name>
+        <sys_package display_value="Code Mobile" source="x_snc_code_mobile">3515997e1befb010cf986396b04bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Code Mobile">3515997e1befb010cf986396b04bcb9f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_267591be1befb010cf986396b04bcb2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-04 18:28:25</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

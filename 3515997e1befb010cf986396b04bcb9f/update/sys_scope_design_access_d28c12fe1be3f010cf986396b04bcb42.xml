@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="INSERT_OR_UPDATE">
+        <source_scope display_value="Code Mobile">3515997e1befb010cf986396b04bcb9f</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-04 23:38:53</sys_created_on>
+        <sys_id>d28c12fe1be3f010cf986396b04bcb42</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6ff9aaa41bba3410355c6208b04bcb11</sys_name>
+        <sys_package display_value="Code Mobile" source="x_snc_code_mobile">3515997e1befb010cf986396b04bcb9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Code Mobile">3515997e1befb010cf986396b04bcb9f</sys_scope>
+        <sys_update_name>sys_scope_design_access_d28c12fe1be3f010cf986396b04bcb42</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-04 23:38:53</sys_updated_on>
+        <target_package display_value="Safety App 2021" source="x_snc_safety_app_0">6ff9aaa41bba3410355c6208b04bcb11</target_package>
+    </sys_scope_design_access>
+</record_update>
